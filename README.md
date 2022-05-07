@@ -1,2 +1,2 @@
 My react fortnite shop
-[Demo](https://thelastndanceq.github.io/fort-shop);
+[Demo]https://thelastdanceq.github.io/fort-shop/);
