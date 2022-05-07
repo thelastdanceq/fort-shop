@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fort-shop/static/css/main.e08439f7.css",
+    "main.js": "/fort-shop/static/js/main.24133e03.js",
+    "index.html": "/fort-shop/index.html",
+    "main.e08439f7.css.map": "/fort-shop/static/css/main.e08439f7.css.map",
+    "main.24133e03.js.map": "/fort-shop/static/js/main.24133e03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e08439f7.css",
+    "static/js/main.24133e03.js"
+  ]
+}
